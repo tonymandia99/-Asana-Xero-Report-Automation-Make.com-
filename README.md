@@ -37,4 +37,4 @@ This workflow:
 
 
 For full details on each module, see [docs/modules-explained.md](docs/modules-explained.md).  
-For step-by-step setup instructions, see [docs/setup-guide.md](docs/setup-guide.md).
+For step-by-step setup instructions, see [docs/setup-guide.md](project1setup-guide.docx).
